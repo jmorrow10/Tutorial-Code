@@ -1,0 +1,7 @@
+<launch>
+<node name="talker" pkg="tutorials" type="talk.py" />
+<node name="ear1" pkg="tutorials" type="listen.py" />
+<node name="ear2" pkg="tutorials" type="listen.py" />
+<node name="person" pkg="tutorials" type="sam.py" />
+
+</launch>

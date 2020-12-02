@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/rmc/catkin_ws/src/my_first_pkg/include/**",
+        "/home/rmc/catkin_ws/src/tutorials/include/**",
+        "/home/rmc/Documents/GitHub/RMC-Code-2020/catkin_ws/src/wendigo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
